@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+page_title : THIRD TEST TITLE
 title: Privacy Policy
 include_in_header: false
 ---
