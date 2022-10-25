@@ -72,3 +72,8 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+
+fonts:
+  custom_fonts:
+    - https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap
