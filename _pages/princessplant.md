@@ -1,6 +1,11 @@
 ---
 title: "Sample Page"
 permalink: /princessplant/
+layout: single
+author_profile: false
+header:
+  image: /assets/images/test.png
+
 ---
 
 
