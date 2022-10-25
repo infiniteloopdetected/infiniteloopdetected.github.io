@@ -20,6 +20,8 @@ This is an example page. It's different from a blog post because it will stay in
 You should probably delete this page and create new pages for your content. Have fun!
 
 
-{: .notice}핳하하하하하핳
+핳하하하하하핳
+{: .notice}
 
-{: .notice--warning}하하하핳ㅁㅁㄴㅇㅁㄴㅇㄴ
+하하하핳ㅁㅁㄴㅇㅁㄴㅇㄴ
+{: .notice--warning}
