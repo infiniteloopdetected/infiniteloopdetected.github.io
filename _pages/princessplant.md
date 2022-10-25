@@ -4,7 +4,8 @@ layout: single
 author_profile: false
 header:
   image: /assets/images/test.png
-
+atom_feed:
+  hide                   : true
 ---
 
 
