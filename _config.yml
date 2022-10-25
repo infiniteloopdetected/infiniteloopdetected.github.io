@@ -75,4 +75,4 @@ defaults:
 
 
 fonts:
-  font_urls: https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap
+  custom_font_urls: https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap
