@@ -4,8 +4,6 @@ layout: single
 author_profile: false
 header:
   image: /assets/images/test.png
-atom_feed:
-  hide                   : true
 ---
 
 
@@ -20,3 +18,8 @@ This is an example page. It's different from a blog post because it will stay in
 > The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
 
 You should probably delete this page and create new pages for your content. Have fun!
+
+
+{: .notice}핳하하하하하핳
+
+{: .notice--warning}하하하핳ㅁㅁㄴㅇㅁㄴㅇㄴ
