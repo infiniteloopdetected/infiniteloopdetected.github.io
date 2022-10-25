@@ -41,7 +41,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: 프린세스 플랜트!
-  url: _pages/princessplant
+  url: /princessplant/
 
 # Footer nav
 navigation_footer:
