@@ -29,6 +29,15 @@
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
+
+
+        <!-- 자동 테마 변경 기능 테스트 추가 -->
+        {% if site.minimal_mistakes_skin2 %}
+        <li><i class="fas fa-fw fa-adjust dark_mode_btn" aria-hidden="true" onclick="dark_mode_btn_click()"></i></li>
+        {% endif %}
+        
+
+        
       </nav>
     </div>
   </div>
