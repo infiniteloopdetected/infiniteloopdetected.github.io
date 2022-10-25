@@ -75,4 +75,9 @@ defaults:
 
 
 fonts:
-  custom_font_urls: https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  custom_font_urls:
+    - https://fonts.googleapis.com/css2?family=Nanum+Gothic
+  
+  #:wght@400;700&display=swap
